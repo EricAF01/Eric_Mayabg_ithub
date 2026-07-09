@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &3491518112937934004
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 808445541031797128, guid: 4e4b6097b8b886441ac458dda768be9e, type: 3}
+      propertyPath: lengthInSec
+      value: 4.37
+      objectReference: {fileID: 0}
+    - target: {fileID: 808445541031797128, guid: 4e4b6097b8b886441ac458dda768be9e, type: 3}
+      propertyPath: NoiseModule.damping
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 808445541031797128, guid: 4e4b6097b8b886441ac458dda768be9e, type: 3}
+      propertyPath: NoiseModule.frequency
+      value: 0.17
+      objectReference: {fileID: 0}
+    - target: {fileID: 808445541031797128, guid: 4e4b6097b8b886441ac458dda768be9e, type: 3}
+      propertyPath: ShapeModule.m_Scale.x
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 808445541031797128, guid: 4e4b6097b8b886441ac458dda768be9e, type: 3}
+      propertyPath: ShapeModule.m_Scale.y
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 808445541031797128, guid: 4e4b6097b8b886441ac458dda768be9e, type: 3}
+      propertyPath: ShapeModule.m_Scale.z
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 808445541031797128, guid: 4e4b6097b8b886441ac458dda768be9e, type: 3}
+      propertyPath: NoiseModule.strength.scalar
+      value: 1.07
+      objectReference: {fileID: 0}
+    - target: {fileID: 808445541031797128, guid: 4e4b6097b8b886441ac458dda768be9e, type: 3}
+      propertyPath: NoiseModule.scrollSpeed.scalar
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 808445541031797128, guid: 4e4b6097b8b886441ac458dda768be9e, type: 3}
+      propertyPath: InitialModule.startSpeed.scalar
+      value: 2.65
+      objectReference: {fileID: 0}
+    - target: {fileID: 808445541031797128, guid: 4e4b6097b8b886441ac458dda768be9e, type: 3}
+      propertyPath: EmissionModule.rateOverTime.scalar
+      value: 7.28
+      objectReference: {fileID: 0}
+    - target: {fileID: 808445541031797128, guid: 4e4b6097b8b886441ac458dda768be9e, type: 3}
+      propertyPath: InitialModule.startLifetime.scalar
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 1753851225518859387, guid: 4e4b6097b8b886441ac458dda768be9e, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 50.19428
+      objectReference: {fileID: 0}
+    - target: {fileID: 1753851225518859387, guid: 4e4b6097b8b886441ac458dda768be9e, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.04651
+      objectReference: {fileID: 0}
+    - target: {fileID: 1753851225518859387, guid: 4e4b6097b8b886441ac458dda768be9e, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -20.50499
+      objectReference: {fileID: 0}
+    - target: {fileID: 1753851225518859387, guid: 4e4b6097b8b886441ac458dda768be9e, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 1753851225518859387, guid: 4e4b6097b8b886441ac458dda768be9e, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 1753851225518859387, guid: 4e4b6097b8b886441ac458dda768be9e, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1753851225518859387, guid: 4e4b6097b8b886441ac458dda768be9e, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1753851225518859387, guid: 4e4b6097b8b886441ac458dda768be9e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 1753851225518859387, guid: 4e4b6097b8b886441ac458dda768be9e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1753851225518859387, guid: 4e4b6097b8b886441ac458dda768be9e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4204744064309380360, guid: 4e4b6097b8b886441ac458dda768be9e, type: 3}
+      propertyPath: m_Name
+      value: VFX Big Zombie Variant
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 4e4b6097b8b886441ac458dda768be9e, type: 3}
